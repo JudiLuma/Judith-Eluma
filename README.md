@@ -1,5 +1,9 @@
 # Hi, I'm Judith 👋
 
+<p align="center">
+  <img src="./judith-banner.png" width="100%">
+</p>
+
 ### Registered Nurse | Database & Data Enthusiast | Healthcare Technology
 
 I'm a Registered Nurse with a growing passion for databases,
